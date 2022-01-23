@@ -1,0 +1,23 @@
+{
+  "name": "chisnpmdata",
+  "version": "1.0.0",
+  "description": "Lib for ChisdealHDYT all in 1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChisdealHDYT/chisnpmdata.git"
+  },
+  "keywords": [],
+  "author": "ChisdealHDYT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChisdealHDYT/chisnpmdata/issues"
+  },
+  "homepage": "https://github.com/ChisdealHDYT/chisnpmdata#readme",
+  "dependencies": {
+    "ipfs-add-from-url-updated": "github:ChisdealHDYT/ipfs-add-from-url-updated"
+  }
+}
